@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/3js-haunted-house/static/css/main.62b31fe7.chunk.css",
+    "main.js": "/3js-haunted-house/static/js/main.7f2e0eb7.chunk.js",
+    "main.js.map": "/3js-haunted-house/static/js/main.7f2e0eb7.chunk.js.map",
+    "runtime-main.js": "/3js-haunted-house/static/js/runtime-main.e7f084c2.js",
+    "runtime-main.js.map": "/3js-haunted-house/static/js/runtime-main.e7f084c2.js.map",
+    "static/js/2.bba9581c.chunk.js": "/3js-haunted-house/static/js/2.bba9581c.chunk.js",
+    "static/js/2.bba9581c.chunk.js.map": "/3js-haunted-house/static/js/2.bba9581c.chunk.js.map",
+    "static/js/3.dccf64fa.chunk.js": "/3js-haunted-house/static/js/3.dccf64fa.chunk.js",
+    "static/js/3.dccf64fa.chunk.js.map": "/3js-haunted-house/static/js/3.dccf64fa.chunk.js.map",
+    "index.html": "/3js-haunted-house/index.html",
+    "static/css/main.62b31fe7.chunk.css.map": "/3js-haunted-house/static/css/main.62b31fe7.chunk.css.map",
+    "static/js/2.bba9581c.chunk.js.LICENSE.txt": "/3js-haunted-house/static/js/2.bba9581c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7f084c2.js",
+    "static/js/2.bba9581c.chunk.js",
+    "static/css/main.62b31fe7.chunk.css",
+    "static/js/main.7f2e0eb7.chunk.js"
+  ]
+}
